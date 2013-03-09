@@ -41,12 +41,12 @@ PyInstaller Build Command
 # Resources #
 #############
 
-Package					URL													
-``````````````````````````````````````````````````````````````````````````````````
-pythoncom (pywin32)		http://sourceforge.net/projects/pywin32/			
-pyHook					http://sourceforge.net/projects/pyhook/?source=dlp	
-pyhk 					https://code.google.com/p/pyhk/source/browse/trunk/pyhk.py
-setDefaultAudioDevice	http://zornsoftware.codenature.info/free-downloads?did=1
-pyInstaller				http://www.pyinstaller.org/							
+Package	- URL		
+````````````````````
+pythoncom (pywin32) - http://sourceforge.net/projects/pywin32/			
+pyHook - http://sourceforge.net/projects/pyhook/?source=dlp	
+pyhk - https://code.google.com/p/pyhk/source/browse/trunk/pyhk.py
+setDefaultAudioDevice - http://zornsoftware.codenature.info/free-downloads?did=1
+pyInstaller - http://www.pyinstaller.org/							
 
 *All resources provided under open source licensing
