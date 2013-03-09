@@ -21,10 +21,13 @@ To install:
 	-get/install prereqs (resources listed below)
 	-change the global variables at the beginning of the script
 		-set the location of your downloaded setDefaultAudioDevice.exe
-		-get your audio device IDs from the registry and put them into the dictionary object
+		-get your audio device IDs from the registry and put them into the 
+			dictionary object
 		-set your hotkey combo (or don't and keep the default)
-	-use pyInstaller to build your .exe (strictly speaking this is optional unless you want to install this later as a windows service)
-	-add a shortcut to your .exe within the startup folder, or install it as a windows service
+	-use pyInstaller to build your .exe (strictly speaking this is optional unless
+		you want to install this later as a windows service)
+	-add a shortcut to your .exe within the startup folder, or install it as a 
+		windows service
 	-Success! Spam your toggle hotkey to your heart's content
 
 PyInstaller Build Command
@@ -37,16 +40,13 @@ PyInstaller Build Command
 #############
 # Resources #
 #############
-Package					URL																License
-````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````
-pythoncom (pywin32)		http://sourceforge.net/projects/pywin32/						Python Software Foundation License
-pyHook					http://sourceforge.net/projects/pyhook/?source=dlp				MIT License
-pyhk 					https://code.google.com/p/pyhk/source/browse/trunk/pyhk.py 		GNU General Public License V2
-setDefaultAudioDevice	http://zornsoftware.codenature.info/free-downloads?did=14		GNU General Public License
-pyInstaller				http://www.pyinstaller.org/										GPL License (w/ commercial exception)
 
+Package					URL													
+``````````````````````````````````````````````````````````````````````````````````
+pythoncom (pywin32)		http://sourceforge.net/projects/pywin32/			
+pyHook					http://sourceforge.net/projects/pyhook/?source=dlp	
+pyhk 					https://code.google.com/p/pyhk/source/browse/trunk/pyhk.py
+setDefaultAudioDevice	http://zornsoftware.codenature.info/free-downloads?did=1
+pyInstaller				http://www.pyinstaller.org/							
 
-
-
-
-
+*All resources provided under open source licensing
